@@ -14,6 +14,7 @@
 ### Demo Video
 
 ![Watch Video Demo](./Demo/FINAL_SYSTEM.mp4 "Demo")
+<iframe src="./Demo/FINAL_SYSTEM.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Prerequisites
 
