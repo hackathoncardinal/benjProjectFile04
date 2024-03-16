@@ -13,7 +13,7 @@
 
 ### Demo Video
 
-![Watch Video Demo](./Demo/FINAL_SYSTEM.png "Demo")
+![Watch Video Demo](./Demo/FINAL_SYSTEM.mp4 "Demo")
 
 ### Prerequisites
 
