@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 * for linux Command: ("sudo apt install github").
 
 ### Instruction And Setup
-<hr>
+
 Step 1 : Install XAMPP Apache + MariaDB + PHP + Perl
 	•Folder
 	  -Installer/xampp-windows-installer.exe
@@ -83,7 +83,6 @@ Remember that our work is more than just lines of code or financial transactions
 
 Thank you! :)
 
-<hr>
 
 
 ### Run Locally
