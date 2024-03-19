@@ -76,6 +76,8 @@ git clone https://github.com/hackathoncardinal/benjProjectFile04.git
 ### Contact
 
 If you want to contact me, you can reach me at [Facebook](https://www.facebook.com/benjie.tawi).
+[Contact me via Gmail](mailto:kenkenjie22l@gmail.com)
+
 
 ### License
 
