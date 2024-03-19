@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Project Team Members
 
-- Anna Añonuevo, BSCPE 4-1
+- Ander Taker, BSCPE 4-1
 - Jamila Nazir Idrees, BSCPE 4-1
 - Benjie Tawi
 

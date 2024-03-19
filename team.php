@@ -103,7 +103,7 @@
                 <div class="team-item position-relative overflow-hidden">
                     <img class="img-fluid w-100" src="img/team-1.jpg" alt="">
                     <div class="team-text w-100 position-absolute top-50 text-center bg-primary p-4">
-                        <h3 class="text-white">Anna Añonuevo</h3>
+                        <h3 class="text-white">Ander Taker</h3>
                         <p class="text-white text-uppercase mb-0">BSCPE 4-1</p>
                         <p class="text-white text-uppercase mb-1">Systems Programmer</p>
                     </div>
